@@ -1,2 +1,2 @@
-sample data
+sample data 2
 inserting for second commit
